@@ -1,0 +1,88 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D8A5824D-865E-4C4C-8512-ED175030B863}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\smart_official_website\index.html = ..\..\smart_official_website\index.html
+		..\..\smart_official_website\index.js = ..\..\smart_official_website\index.js
+		..\..\smart_official_website\style.css = ..\..\smart_official_website\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "static", "static", "{F7AB0650-71BF-4847-8338-77AD99DCD08A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{48FDB10A-6FD6-483E-A697-43B3500ECF8B}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\smart_official_website\static\images\activity01-image.jpg = ..\..\smart_official_website\static\images\activity01-image.jpg
+		..\..\smart_official_website\static\images\adult-business-computer-contemporary-380769.jpg = ..\..\smart_official_website\static\images\adult-business-computer-contemporary-380769.jpg
+		..\..\smart_official_website\static\images\apple-apple-device-design-desk-285814.jpg = ..\..\smart_official_website\static\images\apple-apple-device-design-desk-285814.jpg
+		..\..\smart_official_website\static\images\apple-laptop-notebook-office-39284.jpg = ..\..\smart_official_website\static\images\apple-laptop-notebook-office-39284.jpg
+		..\..\smart_official_website\static\images\blur-close-up-code-computer-546819.jpg = ..\..\smart_official_website\static\images\blur-close-up-code-computer-546819.jpg
+		..\..\smart_official_website\static\images\bokeh-photography-of-person-holding-turned-on-iphone-1440727.jpg = ..\..\smart_official_website\static\images\bokeh-photography-of-person-holding-turned-on-iphone-1440727.jpg
+		..\..\smart_official_website\static\images\business-woman-2697954_1920.jpg = ..\..\smart_official_website\static\images\business-woman-2697954_1920.jpg
+		..\..\smart_official_website\static\images\gray-laptop-computer-showing-html-codes-in-shallow-focus-160107.jpg = ..\..\smart_official_website\static\images\gray-laptop-computer-showing-html-codes-in-shallow-focus-160107.jpg
+		..\..\smart_official_website\static\images\man-wearing-black-suit-2955376.jpg = ..\..\smart_official_website\static\images\man-wearing-black-suit-2955376.jpg
+		..\..\smart_official_website\static\images\people-in-couch-1024248.jpg = ..\..\smart_official_website\static\images\people-in-couch-1024248.jpg
+		..\..\smart_official_website\static\images\person-holding-a-smartphone-892757.jpg = ..\..\smart_official_website\static\images\person-holding-a-smartphone-892757.jpg
+		..\..\smart_official_website\static\images\person-using-black-and-white-smartphone-and-holding-blue-230544.jpg = ..\..\smart_official_website\static\images\person-using-black-and-white-smartphone-and-holding-blue-230544.jpg
+		..\..\smart_official_website\static\images\photo-of-imac-near-macbook-1029757.jpg = ..\..\smart_official_website\static\images\photo-of-imac-near-macbook-1029757.jpg
+		..\..\smart_official_website\static\images\red-suspension-bridge-3493772.jpg = ..\..\smart_official_website\static\images\red-suspension-bridge-3493772.jpg
+		..\..\smart_official_website\static\images\selective-focus-photograph-of-man-wearing-gray-suit-jacket-1138903.jpg = ..\..\smart_official_website\static\images\selective-focus-photograph-of-man-wearing-gray-suit-jacket-1138903.jpg
+		..\..\smart_official_website\static\images\smiling-woman-wearing-black-sweater-1587009.jpg = ..\..\smart_official_website\static\images\smiling-woman-wearing-black-sweater-1587009.jpg
+		..\..\smart_official_website\static\images\watercrafts-on-river-3464632.jpg = ..\..\smart_official_website\static\images\watercrafts-on-river-3464632.jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "videos", "videos", "{227E20FB-D955-4392-8C69-877B707FAA94}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\smart_official_website\static\videos\working-man.mp4 = ..\..\smart_official_website\static\videos\working-man.mp4
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "libs", "libs", "{A5CDF650-2AEA-4DE7-8FEF-CF3B31800A54}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "anime", "anime", "{E43D72C4-13BE-4A9E-A9D0-E36D48B8FAD4}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\smart_official_website\static\libs\anime\anime.min.js = ..\..\smart_official_website\static\libs\anime\anime.min.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "glide", "glide", "{D5BC3EBF-0EA8-4477-BF4D-65FCB35B299F}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\smart_official_website\static\libs\glide\glide.core.min.css = ..\..\smart_official_website\static\libs\glide\glide.core.min.css
+		..\..\smart_official_website\static\libs\glide\glide.min.js = ..\..\smart_official_website\static\libs\glide\glide.min.js
+		..\..\smart_official_website\static\libs\glide\glide.theme.min.css = ..\..\smart_official_website\static\libs\glide\glide.theme.min.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "isotope", "isotope", "{DDE09812-6258-4324-AAFA-FACF2A8FBC48}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\smart_official_website\static\libs\isotope\isotope.pkgd.min.js = ..\..\smart_official_website\static\libs\isotope\isotope.pkgd.min.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "scrollReveal", "scrollReveal", "{9DA5EBB5-6492-436A-B302-8517C432E7B9}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\smart_official_website\static\libs\scrollReveal\scrollreveal.min.js = ..\..\smart_official_website\static\libs\scrollReveal\scrollreveal.min.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "smooth-scroll", "smooth-scroll", "{7C929F38-FD35-4289-B9A6-22895202F3EE}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\smart_official_website\static\libs\smooth-scroll\smooth-scroll.polyfills.min.js = ..\..\smart_official_website\static\libs\smooth-scroll\smooth-scroll.polyfills.min.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F7AB0650-71BF-4847-8338-77AD99DCD08A} = {D8A5824D-865E-4C4C-8512-ED175030B863}
+		{48FDB10A-6FD6-483E-A697-43B3500ECF8B} = {F7AB0650-71BF-4847-8338-77AD99DCD08A}
+		{227E20FB-D955-4392-8C69-877B707FAA94} = {F7AB0650-71BF-4847-8338-77AD99DCD08A}
+		{A5CDF650-2AEA-4DE7-8FEF-CF3B31800A54} = {F7AB0650-71BF-4847-8338-77AD99DCD08A}
+		{E43D72C4-13BE-4A9E-A9D0-E36D48B8FAD4} = {A5CDF650-2AEA-4DE7-8FEF-CF3B31800A54}
+		{D5BC3EBF-0EA8-4477-BF4D-65FCB35B299F} = {A5CDF650-2AEA-4DE7-8FEF-CF3B31800A54}
+		{DDE09812-6258-4324-AAFA-FACF2A8FBC48} = {A5CDF650-2AEA-4DE7-8FEF-CF3B31800A54}
+		{9DA5EBB5-6492-436A-B302-8517C432E7B9} = {A5CDF650-2AEA-4DE7-8FEF-CF3B31800A54}
+		{7C929F38-FD35-4289-B9A6-22895202F3EE} = {A5CDF650-2AEA-4DE7-8FEF-CF3B31800A54}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBF84CC1-7739-4BD1-AD62-3EDF900175B6}
+	EndGlobalSection
+EndGlobal
